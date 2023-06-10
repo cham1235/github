@@ -1,3 +1,3 @@
 # github
 
-paly with github and try to understandint it more.
+play with github and try to understandint it more.
